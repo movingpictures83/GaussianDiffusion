@@ -1,0 +1,2 @@
+Prefix plugins/GaussianDiffusion/example/
+Plugin GaussianDiffusion inputfile parameters.txt outputfile none

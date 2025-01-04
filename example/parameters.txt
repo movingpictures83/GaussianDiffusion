@@ -1,0 +1,2 @@
+pretrained	Encoder.h5
+inputdir	/biorg/data/Weather/
